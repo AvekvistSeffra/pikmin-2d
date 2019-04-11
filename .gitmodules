@@ -1,0 +1,3 @@
+[submodule "Pikmin/vendor/titanium"]
+	path = Pikmin/vendor/titanium
+	url = https://github.com/AvekvistSeffra/titanium
